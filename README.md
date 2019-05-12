@@ -42,7 +42,7 @@ Bezeichnet einen Speicher oder ein Speicher system. Dies besteht aus rueckkoplun
 <a href="sequentiallogic.jpg"><img src="sequentiallogic.jpg" height=200px/></a>
 
 
-Quellen: Unterlagen, [https://de.wikipedia.org/wiki/Schaltnetz](https://de.wikipedia.org/wiki/Schaltnetz)
+Quellen: Unterlagen, [https://de.wikipedia.org/wiki/Schaltwerk_(Technische_Informatik)](https://de.wikipedia.org/wiki/Schaltwerk_(Technische_Informatik))
 
 ## Schaltnetz / Combinational logic
 
